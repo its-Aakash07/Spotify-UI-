@@ -235,9 +235,10 @@
  }
  .progress-bar::-webkit-slider-thumb{
     appearance: none;
-    height: 16px;
+    height: 15px;
     width: 16px;
     background-color: #1bd760;
     border-radius: 100%;
     margin-top: -6px;
+
     }
